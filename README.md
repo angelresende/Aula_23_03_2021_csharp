@@ -1,4 +1,4 @@
-# Exercícios desenvolvidos na aula de programação orientada a objeto. Primeiros passos com C#.
+# Primeiros passos com C#.
 
 <h1>
 Exercícios desenvolvidos em C#, com o framework dotnet (.Net), para a matéria de Programação orientada a objeto (POO).
