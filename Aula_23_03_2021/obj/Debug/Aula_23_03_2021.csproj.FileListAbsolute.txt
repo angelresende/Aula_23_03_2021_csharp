@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\obj\Debug\Aula_23_03_2021.csprojAssemblyReference.cache
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\obj\Debug\Aula_23_03_2021.frm000Geral.resources
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\obj\Debug\Aula_23_03_2021.frmPrincipal.resources
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\obj\Debug\Aula_23_03_2021.Properties.Resources.resources
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\obj\Debug\Aula_23_03_2021.csproj.GenerateResource.cache
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\obj\Debug\Aula_23_03_2021.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\bin\Debug\Aula_23_03_2021.exe.config
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\bin\Debug\Aula_23_03_2021.exe
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\bin\Debug\Aula_23_03_2021.pdb
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\obj\Debug\Aula_23_03_2021.exe
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_02\Aula_23_03_2021\Aula_23_03_2021\obj\Debug\Aula_23_03_2021.pdb
